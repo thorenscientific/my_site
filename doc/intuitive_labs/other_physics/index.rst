@@ -1,8 +1,27 @@
 Other Physics
 =============
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur.
+Like the title says - other sciencey stuff that does not fit under other headings.
+
+.. rubric:: Ultrasonic Levatator!
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/oS3yeIEAj5o" title="Ultrasonic Levitator Build, Test, and Ultrasonic Translator with GNURadio!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+.. rubric:: World's Sillist Boost Converter
+
+This is actually a demonstration of conservation of charge as capacitance is varied. This is an extraordinarily difficult effect to observe directly, but... here we are! Future work on this is to measure the electrostatic force between two plates as they are charged via a Wimshurst generator.
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/nKIqYKiAmpI" title="World&#39;s Silliest Boost Converter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+.. rubric:: Peepsplosion! (The real science is touching the triple point of water...)
+
+Can you boil ice water? You betcha! This could be expanded into a temperature sensor calibration exercise.
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/rGNiV-areLY" title="Peepsplosion! (And, boiling ice water at the triple point)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
