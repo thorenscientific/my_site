@@ -17,10 +17,12 @@ release = '0.1'
 
 extensions = ['myst_parser', 'sphinxcontrib.googleanalytics']
 
+myst_enable_extensions = ['colon_fence', 'deflist', 'substitution']
+
 googleanalytics_id = "G-MVGVD9PCJJ"
 
 templates_path = ['_templates']
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', '**/*.rst', '*.rst']
 
 
 # -- Options for HTML output -------------------------------------------------
