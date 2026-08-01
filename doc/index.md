@@ -17,53 +17,47 @@ In the meantime, here is a video that expresses the Thoren Scientific philosophy
 <iframe width="560" height="315" src="https://www.youtube.com/embed/89x3RQnJMNQ" title="Gyro controlled trippy sound generator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
 
-```{eval-rst}
-.. toctree::
-   :maxdepth: 4
-   :caption: Research Notebook: Intuitive Labs
-   :hidden:
+:::{toctree}
+:maxdepth: 4
+:caption: Research Notebook: Intuitive Labs
+:hidden:
 
-   intuitive_labs/index.md
-```
+intuitive_labs/index.md
+:::
 
-```{eval-rst}
-.. toctree::
-   :maxdepth: 4
-   :caption: Interesting Circuits:
-   :hidden:
+:::{toctree}
+:maxdepth: 4
+:caption: Interesting Circuits:
+:hidden:
 
-   interesting_circuits/interesting_circuits.md
-   interesting_circuits/public_circuit_bookmarks.md
+interesting_circuits/interesting_circuits.md
+interesting_circuits/public_circuit_bookmarks.md
+:::
 
-```
+:::{toctree}
+:maxdepth: 4
+:caption: Learning:
+:hidden:
 
-```{eval-rst}
-.. toctree::
-   :maxdepth: 4
-   :caption: Learning:
-   :hidden:
+learning/learning.md
+:::
 
-   learning/learning.md
-```
+:::{toctree}
+:maxdepth: 4
+:caption: Lists of Things:
+:hidden:
 
-```{eval-rst}
-.. toctree::
-   :maxdepth: 4
-   :caption: Lists of Things:
-   :hidden:
+lists_of_things/akins_laws.md
+lists_of_things/sagans_baloney_detector.md
+lists_of_things/pre_post_pox_eclipse.md
+:::
 
-   lists_of_things/akins_laws.md
-   lists_of_things/sagans_baloney_detector.md
-   lists_of_things/pre_post_pox_eclipse.md
-```
+:::{toctree}
+:maxdepth: 4
+:caption: Page Templates:
+:hidden:
 
-```{eval-rst}
-.. toctree::
-   :maxdepth: 4
-   :caption: Page Templates:
-   :hidden:
-
-   some-feature.md
-   another-feature.md
-   yet-another-feature.md
-```
+some-feature.md
+another-feature.md
+yet-another-feature.md
+:::

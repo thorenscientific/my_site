@@ -9,18 +9,17 @@ myst:
 
 # A Methodology for Developing Physically Intuitive Laboratories for Advanced Electrical Engineering Education
 
-```{eval-rst}
-.. toctree::
-   :maxdepth: 1
-   :hidden:
+:::{toctree}
+:maxdepth: 1
+:hidden:
 
-   data_conversion/index.md
-   software_defined_radio/index.md
-   power_electronics/index.md
-   other_electronic_topics/index.md
-   other_physics/index.md
-   medical_physiological/index.md
-```
+data_conversion/index.md
+software_defined_radio/index.md
+power_electronics/index.md
+other_electronic_topics/index.md
+other_physics/index.md
+medical_physiological/index.md
+:::
 
 A starting point for a(n) (e)book / survey / other on various things practical mixed signal.
 
