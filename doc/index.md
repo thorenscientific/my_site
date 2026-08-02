@@ -50,6 +50,7 @@ learning/learning.md
 lists_of_things/akins_laws.md
 lists_of_things/sagans_baloney_detector.md
 lists_of_things/pre_post_pox_eclipse.md
+lists_of_things/alt_phonetic_alphabets.md
 :::
 
 :::{toctree}
